@@ -17,7 +17,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("https://via.placeholder.com/600/000000/FFFFFF/?text=Macbook Pro"); /* The image used */
+  background-image: url("  https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/hero/hero_intro__cww8m2vra4uq_large.jpg");
   background-color: var(--bg-color); /* Used if the image is unavailable */
   height: 500px; /* Set a specified height */
   background-position: center; /* Center the image */
