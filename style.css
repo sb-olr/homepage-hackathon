@@ -1,16 +1,52 @@
+* {
+    background-color: rgb(123, 123, 123);
+}
+
+.nav-menu {
+    background-color: #000;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    
+}
 nav ul {
     display: flex;
     justify-content: space-around;
     list-style: none;
     padding: 10;
     margin: 0;
+    
 }
 
 nav ul a {
     color: rgb(55, 61, 61);
     text-decoration: none;
+    color: #f5f5f7;
+    font-size: 12px;
+    line-height: 3.66667;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #f5f5f7;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    padding: 0 8px;
+    height: 44px;
+    opacity: .8;
+    background: no-repeat;
+    text-decoration: none;
+    white-space: nowrap;
 }
 
 a:hover {
-color: white;
+color: rgb(180, 180, 180);
+}
+
+.headline {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    max-width: 810px;
 }
