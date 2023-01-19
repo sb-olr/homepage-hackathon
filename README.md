@@ -1,11 +1,15 @@
 # homepage-hackathon
-homepage-hackathon
 
+This fun project is meant to clone the Apple.com landing page :)
 
-#Team
+Here is our attempt:
 
-Sujit
-Emrah
-Aleksa
+https://sb-olr.github.io/homepage-hackathon/
+
+## Team
+
+* Sujit
+* Emrah
+* Aleksa
 
 
