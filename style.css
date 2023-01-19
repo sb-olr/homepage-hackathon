@@ -46,6 +46,7 @@ a:hover {
 }
 
 .mac-announcement .headline {
+    margin-top: 150px;
     font-size: 56px;
     line-height: 1.07143;
     font-weight: 450;
@@ -64,6 +65,7 @@ a:hover {
 
 
 .wrapper .headline {
+    margin-top: 20px;
     font-size: 56px;
     line-height: 1.07143;
     font-weight: 450;
