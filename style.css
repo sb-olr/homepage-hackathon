@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(164, 164, 164);
+    background-color: black;
 }
 
 
@@ -117,5 +117,18 @@ button {
   }
 
   .cool-button a {
+    text-decoration: none;
     color: white;
   }
+
+  .button-container {
+    text-align: center;
+  }
+
+.link {
+    text-decoration: none;
+}
+
+.link-container {
+    text-align: center;
+}
